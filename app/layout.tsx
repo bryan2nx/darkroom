@@ -16,6 +16,7 @@ const plexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://darkroom.2nx.co"),
   title: "Darkroom — Scene Study 01",
   description:
     "A mobile-first, real-time 3D diorama of a 1970s photographic darkroom. Scene Study 01.",
